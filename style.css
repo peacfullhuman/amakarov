@@ -69,10 +69,6 @@
     overflow: hidden;
 }
 
-/* .main-blocks::-webkit-scrollbar { */
-  /* display: none;           Скрываем в WebKit-браузерах (Chrome, Safari) */
-/* } */
-
 .main-blocks {
   -ms-overflow-style: none; /* Скрываем в Internet Explorer/Edge */
   scrollbar-width: none;   /* Скрываем в Firefox */

@@ -1,0 +1,104 @@
+@media (max-width: 768px) {
+
+    .section{
+        padding: 3vh 0;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .title h1{
+        font-size: 3rem;
+    }
+
+    h2{
+        font-size: 18px;
+    }
+
+    h3{
+        font-size: 14px;
+    }
+
+    .title{
+        font-size: 2vh;
+    }
+
+    .block{
+        width: 35vh;
+        height: 35vh;
+    }
+
+    #three-block{
+        gap: 1vh;
+    }
+
+    #five-block p{
+        font-size: 3vh;
+    }
+
+    .form-message{
+        gap: 1vh;
+        padding-bottom: 1vh;
+    }
+
+    .name-phone{
+        display: flex;
+        flex-flow: column;
+        gap: 1vh;
+    }
+
+    .msg-block label{
+        display: none;
+    }
+
+    #message{
+        height: 15vh;
+    }
+
+    #btn-form{
+        font-size: 16px;
+        padding: 5px;
+    }
+
+    .skills-list{
+        padding-top: 1vh;
+    }
+
+    .list-block h2{
+        font-size: 20px;
+    }
+
+    .wrap-content h4{
+        font-size: 12px;
+    }
+
+    .wrap-content ul li{
+        font-size: 12px;
+        padding: 0;
+    }
+
+    #sub-one-block ul{
+        font-size: 14px;
+    }
+
+    .list-block h2{
+        font-size: 16px;
+    }
+
+    .skills-list li{
+        font-weight: 300;
+        font-size: 16px;
+    }
+
+    #two-block img{
+        width: 121%;
+    }
+
+    .one-work img{
+        border: 2px solid wheat;
+    }
+
+    .links a, p{
+        font-size: 12px;
+    }
+}
